@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("hello3");
         System.out.println("hello5");
         System.out.println("hello7");
+        System.out.println("master test!");
     }
 }
